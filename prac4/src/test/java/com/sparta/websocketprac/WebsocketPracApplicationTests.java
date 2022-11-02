@@ -1,10 +1,10 @@
-package com.sparta.socketprac3;
+package com.sparta.websocketprac;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SocketPrac3ApplicationTests {
+class WebsocketPracApplicationTests {
 
 	@Test
 	void contextLoads() {
